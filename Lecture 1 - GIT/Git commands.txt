@@ -1,0 +1,3 @@
+git clone https://github.com/richfrankrepo/CS50W.git - clone a repo to local
+
+git add [filename or pattern]
