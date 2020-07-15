@@ -4,4 +4,6 @@ git add [filename or pattern]
 
 git branch - show all branches
 
-git checkout - b [branch name] - create a new branch
+git branch [newbranchname]
+git checkout [branch name] - switch to new a new branch
+or git checkout -b to create and switch to the new branch at the same time.
