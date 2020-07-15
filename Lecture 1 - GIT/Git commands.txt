@@ -7,3 +7,6 @@ git branch - show all branches
 git branch [newbranchname]
 git checkout [branch name] - switch to new a new branch
 or git checkout -b to create and switch to the new branch at the same time.
+git branch -d [branchname] remove the local branch
+
+
