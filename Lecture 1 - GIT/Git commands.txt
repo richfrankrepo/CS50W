@@ -1,3 +1,7 @@
 git clone https://github.com/richfrankrepo/CS50W.git - clone a repo to local
 
 git add [filename or pattern]
+
+git branch - show all branches
+
+git checkout - b [branch name] - create a new branch
