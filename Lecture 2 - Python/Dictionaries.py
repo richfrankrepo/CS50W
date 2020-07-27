@@ -1,7 +1,10 @@
 # Dictionaries in Python are unordered, changeable and indexed
 
-#Define the dictionary
+#Define the dictionary (literal)
 Houses = {"Harry": "Gryffindor","Draco":"Slytherin"}
+
+#Define an empty dictionary
+anEmptyDictionary = {}
 
 #look up and display the value of item 'Harry'
 print(Houses["Harry"])
